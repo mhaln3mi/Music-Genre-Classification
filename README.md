@@ -26,7 +26,7 @@ In this repo we will be analyzing and building models for Music Genre Classifica
 | tempo   | The tempo of the track.      |
 | duration_in min/ms   | The time of the track.      |
 | time_signature   | The Time Signature      |
-| time_signature   | Genre Class      |
+| class   | Genre Class      |
 
 
 ### Libraries used
