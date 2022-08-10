@@ -1,14 +1,14 @@
 # Music-Genre-Classification
-### Overview
+## Overview
 Music has been an important part of our lives since time immemorial. Every artist has a signature, making music a subjective art. We have scales/metrics to measure the quality of music. But, is it possible to train a machine learning model to predict the genre and quality of the music?
 
 Currently, many music aggregator applications rely on machine learning to power their recommendation engine, and curate playlists. MachineHack is challenging data scientists and machine learning practitioners to build a highly scalable ML model for a music aggregator app (Company ABC) to accurately predict the genre of songs in the dataset.
 
-### Introduction:
+## Introduction:
 
 In this repo we will be analyzing and building models for Music Genre Classification dataset from Kaggle and try to build a model that can predict the genre of a given recodr. We got our dataset from [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification). 
 
-### About Dataset
+## About Dataset
 
 Training dataset: 17,996 rows with 17 columns 
 
@@ -40,7 +40,7 @@ Test dataset: 7,713 rows with 16 columns
 | class   | Genre Class      |
 
 
-### Libraries used
+## Libraries used
 
 - pandas
 - numpy
@@ -54,8 +54,11 @@ Test dataset: 7,713 rows with 16 columns
 - PipelineProfiler
 
 
+## Collaborators
 
-# Sources
+- @mhaln3mi
+
+## Sources
 
 - https://www.kaggle.com/datasets/purumalgi/music-genre-classification
 - https://automl.github.io/auto-sklearn/master/
