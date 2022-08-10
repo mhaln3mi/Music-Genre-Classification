@@ -1,8 +1,6 @@
 # Music-Genre-Classification
 Music Genre Classification project for MISK-DSI 
 
-[:link: Click here to view the webpage](https://mhaln3mi.github.io/Airbnb-Rome-EDA/airbnb-rome.html)
-
 ### Introduction:
 
 In this repo we will be analyzing and building models for Music Genre Classification dataset from Kaggle and try to build a model that can predict the genre of a given recodr. We got our dataset from [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification). 
