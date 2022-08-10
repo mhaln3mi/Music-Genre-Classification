@@ -8,6 +8,10 @@ Currently, many music aggregator applications rely on machine learning to power 
 
 In this repo we will be analyzing and building models for Music Genre Classification dataset from Kaggle and try to build a model that can predict the genre of a given recodr. We got our dataset from [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification). 
 
+### Web Page
+
+[click here](https://mhaln3mi.github.io/Music-Genre-Classification/Models_code.html) to see our report 
+
 ## About Dataset
 
 Training dataset: 17,996 rows with 17 columns 
