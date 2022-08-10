@@ -56,9 +56,14 @@ Test dataset: 7,713 rows with 16 columns
 
 ## Collaborators
 
-- @mhaln3mi
+- [Maan Al Neami](https://github.com/mhaln3mi)
+- [Nourah Almutairi](https://github.com/xnuray98s)
+- [Lina Alhuri](https://github.com/alhuri)
+- [Asma AlQahtani](https://github.com/somahq)
+- [Yousef Alotaibi](https://github.com/YousefAlotaibi)
 
 ## Sources
 
 - https://www.kaggle.com/datasets/purumalgi/music-genre-classification
 - https://automl.github.io/auto-sklearn/master/
+- https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
