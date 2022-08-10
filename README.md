@@ -47,9 +47,9 @@ Test dataset: 7,713 rows with 16 columns
 - matplotlib
 - seaborn
 - scipy
-- sklrean
 - pprint
 - autosklearn
+- sklearn
 - inspect
 - PipelineProfiler
 
